@@ -1,4 +1,4 @@
-grunt-xml2json
+grunt-resx2json
 ==============
 
-Grunt task for converting xml files to json
+Grunt task for converting .resx files into json

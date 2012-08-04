@@ -1,0 +1,10 @@
+{
+	"fr": {
+		"intro": "Ceci est un introduction.",
+		"end": "C'est la fin ici."
+	},
+	"en": {
+		"intro": "Another intro",
+		"end": "Another end."
+	}
+}
