@@ -8,11 +8,11 @@ module.exports = function(grunt) {
     lint: {
       files: ['grunt.js', 'tasks/*.js', 'test/*.js']
     },
-    resx2json: {
-      files : ['templates/**/*.resx'],
-      langregex: /^.+.aspx.(\w+).resx$/g,
-      concat: 'dist/output.json'
-    },
+    // resx2json: {
+    //   files : ['templates/**/*.resx'],
+    //   langregex: /^.+.aspx.(\w+).resx$/g,
+    //   concat: 'dist/output.json'
+    // },
     jshint: {
       options: {
         curly: true,
